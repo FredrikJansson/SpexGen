@@ -5,4 +5,9 @@ Det är en kul grej.
 
 Förändringar och uppdatering av ordlista/listor kommer att publiceras här. 
 
-<h3>Hemsida: <i>tbd</i></h3>
+### Hemsida: **to be released**
+
+#### __TODO-Lista__
+- [ ] Publicera sidan. 
+- [ ] Lägga till flera ord. 
+- [ ] Skriv changelogs. 
