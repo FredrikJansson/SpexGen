@@ -10,9 +10,9 @@ Förändringar och uppdatering av ordlista kommer att publiceras här.
 
 [Föreslå Ord](https://github.com/FredrikJansson/SpexGen/wiki/Hur-föreslår-man-ord%3F)
 
-### Hemsida: **to be released**
+### Hemsida: https://spexgen.xyz
 
 #### __TODO-Lista__
-- [ ] Publicera sidan. 
+- [x] Publicera sidan. 
 - [ ] Lägga till flera ord. 
 - [ ] Skriv changelogs. 
