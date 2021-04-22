@@ -1,6 +1,6 @@
 # SpexGen
 
-Sidan är för nuvarande nere.
+## Sidan är för nuvarande nere.
 
 Hemsida för att generera ord för att spexa med. 
 Det är en kul grej. 
@@ -12,7 +12,7 @@ Förändringar och uppdatering av ordlista kommer att publiceras här.
 
 [Föreslå Ord](https://github.com/FredrikJansson/SpexGen/wiki/Hur-föreslår-man-ord%3F)
 
-### Hemsida: https://spexgen.xyz
+### Hemsida: ~~https://spexgen.xyz~~
 
 #### __TODO-Lista__
 - [x] Publicera sidan. 
