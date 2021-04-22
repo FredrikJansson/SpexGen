@@ -1,5 +1,7 @@
 # SpexGen
 
+Sidan är för nuvarande nere.
+
 Hemsida för att generera ord för att spexa med. 
 Det är en kul grej. 
 
